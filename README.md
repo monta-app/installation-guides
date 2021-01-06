@@ -1,3 +1,4 @@
 - [Easee](./easee/setup.md)
+- [Wallbox](./wallbox/setup.md)
 - [Zaptec](./zaptec/setup.md)
 - [ABB](./abb/setup.md)
