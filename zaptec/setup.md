@@ -4,11 +4,15 @@ Login Into [Zaptec Portal](https://portal.zaptec.com/)
 
 ![Step 1](step_1.png)
 
+---
+
 ### Step 2
 
 Once logged into the dashboard head over to the `Installations` tab
 
 ![Step 2](step_2.png)
+
+---
 
 ### Step 3
 
@@ -18,11 +22,15 @@ points that they don't want to setup via Monta a seperate site must be created i
 
 ![Step 3](step_3.png)
 
+---
+
 ### Step 4
 
 Select the correct site
 
 ![Step 4](step_4.png)
+
+---
 
 ### Step 5
 
@@ -30,12 +38,16 @@ Once in the site page you will want to click on the `Settings` tab
 
 ![Step 5](step_5.png)
 
+---
+
 ### Step 6
 
 Once you reach the settings tab you will want to click on the `Authentication` tab under the primary
 tab bar
 
 ![Step 6](step_6.png)
+
+---
 
 ### Step 7
 
@@ -46,6 +58,8 @@ the URL below it is very important that it is entered exactly as below.
 `URL: wss://ocpp.monta.app/zaptec-{deviceId}`
 
 ![Step 7](step_7.png)
+
+---
 
 ### Step 8
 
