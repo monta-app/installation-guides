@@ -1,3 +1,1 @@
-# Installation Guides
-
-#### [Zaptec](./zaptec/setup.md)
+- [Zaptec](./zaptec/setup.md)

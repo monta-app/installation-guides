@@ -49,6 +49,7 @@ the URL below it is very important that it is entered exactly as below.
 
 ### Step 8
 
-Once the `URL` value is filled all that is left is to click save and the setup is complete the user may now finish the setup via the Monta app
+Once the `URL` value is filled all that is left is to click save and the setup is complete the user
+may now finish the setup via the Monta app
 
 The serial number they should use for registering should be `zaptec-{SerialNumber}` without the {}
