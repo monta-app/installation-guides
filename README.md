@@ -1,1 +1,2 @@
+- [Easee](./easee/setup.md)
 - [Zaptec](./zaptec/setup.md)
