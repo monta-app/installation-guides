@@ -46,7 +46,7 @@ the `Charger Link` button
 
 # Step 5
 
-And very that the device is connected to a `LAN` or `Wifi` network then head back to the main menu
+Verify that the device is connected to a `LAN` or `Wifi` network then head back to the main menu
 
 ![Step 5](step_6.png)
 
@@ -62,7 +62,7 @@ At the main menu you will continue to the `OCPP Server` section by clicking on t
 
 # Step 7
 
-Once you arrive at the OCPP section you will see an empty list and above that list you should see
+Once you arrive at the `OCPP` section you will see an empty list and above that list you should see
 the `Locally Cache Server +` go ahead and click on the `+` button
 
 ![Step 7](step_8.png)

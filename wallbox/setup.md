@@ -10,9 +10,9 @@ Install the mobile app
 If the device isn't connected to WIFI you must be at least 10 feet from the device to continue the
 setup.
 
-
-**Important: Before starting this setup you will need a monta serial number from the App you can get that by going into the `Charge Point Integration` and creating a `Wall Box Puslar OCPP` integration where you should be present with a serial number**
-
+**Important: Before starting this setup you will need a monta serial number from the App you can get
+that by going into the `Charge Point Integration` and creating a `Wall Box Puslar OCPP` integration
+where you should be present with a serial number**
 
 ### Step 1
 
