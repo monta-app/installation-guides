@@ -2,3 +2,4 @@
 - [Wallbox](./wallbox/setup.md)
 - [Zaptec](./zaptec/setup.md)
 - [ABB](./abb/setup.md)
+- [EVBox](./evbox/setup.md)
