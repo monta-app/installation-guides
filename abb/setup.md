@@ -93,7 +93,8 @@ Once you arrive at the configuration menu you might need to toggle the `Enable E
 toggle switch after which you should see a small menu pop up where you can click on server info. Go
 ahead and click on it
 
-**Note: At this point you should save the Serial number in this section as it's the value that you will need to register your device with Monta**
+**Note: At this point you should save the Serial number in this section as it's the value that you
+will need to register your device with Monta**
 
 ![Step 10](step_11.png)
 
@@ -114,7 +115,8 @@ Once selected you should be able to click on `Configure` or `Ok` and if everythi
 will see the following 3 checkmarks. If any error occurs please go to the main screen and retry from
 step 5. Otherwise take a screenshot of the error and forward it to support.
 
-But if everything goes correct you should be able to go back to the main menu and continue the registration on the Monta app using the OCPP provider
+But if everything goes correct you should be able to go back to the main menu and continue the
+registration on the Monta app using the OCPP provider
 
 ![Step 11](step_13.png)
 
